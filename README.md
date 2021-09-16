@@ -1,9 +1,5 @@
 ![](Img/powered-by-linux.png)
 
-#Linux
-#TP n°1
-#Clémence Caribaux
-
 ---
 
 
@@ -24,7 +20,7 @@
 
 ---
 
->#### •	Ajouter au serveur un plugin de remontée de poste client pour pouvoir réaliser l’inventaire du parc (Installer Fusion Inventory) 
+>#### Ajouter au serveur un plugin de remontée de poste client pour pouvoir réaliser l’inventaire du parc (Installer Fusion Inventory) 
   
 
 ---
