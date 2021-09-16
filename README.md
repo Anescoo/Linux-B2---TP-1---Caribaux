@@ -10,9 +10,8 @@
 - [Création d'une connexion sécurisée entre la VM Debian et mon poste Windows avec serveur SSH](https://github.com/Anescoo/Linux-B2-TP1/blob/main/ETAPE2.md)
 
 ---
-
-
 >#### II - Configurer un outil de gestion de ticket (GLPI) 
+-  [Installation de GLPI](https://github.com/Anescoo/Linux-B2-TP1/blob/main/ETAPE3.md)
   
 
 ---
