@@ -38,28 +38,28 @@ quit;```
 
   On télécharge la dernière version de GLPI et l’extraire dans le dossier /tmp : 
 
-```cd /tmp```
+  ```cd /tmp```
 ```wget (https://github.com/glpi-project/glpi/releases/download/9.5.6/glpi-9.5.6.tgz)```
-```tar -zxvf glpi-9.5.6.tgz```
+  ```tar -zxvf glpi-9.5.6.tgz```
+---
+- Donnez à l’utilisateur www-data le contrôle total sur le répertoire GLPI et ses fichiers : 
+  ```sudo chown -R www-data /var/www/html/glpi```
+---
+- Créez un fichier de configuration Apache nommé glpi.conf et insérez le texte suivant :
 
-Donnez à l’utilisateur www-data le contrôle total sur le répertoire GLPI et ses fichiers : 
-```sudo chown -R www-data /var/www/html/glpi```
+  ```sudo nano /etc/apache2/conf-available/glpi.conf```(création du fichier, la commande nous permet de rentrer dedans)
 
-Créez un fichier de configuration Apache nommé glpi.conf et insérez le texte suivant :
+  Insérer ce texte :
 
-```sudo nano /etc/apache2/conf-available/glpi.conf```(création du fichier, la commande nous permet de rentrer dedans)
-
-Insérer ce texte :
-
-```<Directory /var/www/html/glpi>```
+  ```<Directory /var/www/html/glpi>```
    ```AllowOverride All```
-```</Directory>```
+  ```</Directory>```
 
-```<Directory /var/www/html/glpi/config>```
+  ```<Directory /var/www/html/glpi/config>```
   ```Options -Indexes```
-```</Directory>```
+ ```</Directory>```
 
-```<Directory /var/www/html/glpi/files>```
+  ```<Directory /var/www/html/glpi/files>```
   ```Options -Indexes```
-```</Directory>```
+  ```</Directory>```
 
