@@ -16,8 +16,9 @@
 
 ---
 
->####  III - Ajouter au serveur un plugin de remontée de poste client pour pouvoir réaliser l’inventaire du parc (Installer Fusion Inventory) 
-  
+>####  III - Ajouter au serveur un plugin de remontée de poste pour pouvoir réaliser l’inventaire du parc
+- [Résolution du problème de la crontab](https://github.com/Anescoo/Linux-B2-TP1/blob/main/ETAPE4.md)
+- [Installation de Fusion Inventory](https://github.com/Anescoo/Linux-B2-TP1/blob/main/ETAPE4.md)
 
 ---
 
@@ -26,4 +27,4 @@
 
 --- 
 
-1. [Définition](https://github.com/Anescoo/Linux/blob/main/D%C3%A9finition.md) (page suivante)
+1. [ekeaf]() (page suivante)
