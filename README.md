@@ -1,6 +1,4 @@
-![](Img/linux-bis.png)
-
-dskgdkgpsdkgpsdg,
+![](Img/powered-by-linux.png)
 
 ## SOMMAIRE
 ---
