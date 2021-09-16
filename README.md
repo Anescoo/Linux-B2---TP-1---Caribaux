@@ -6,7 +6,7 @@
 ## SOMMAIRE
 ---
 >#### I -  Mettre en place une machine virtuelle 
-- [Création de la VM](https://github.com/Anescoo/Linux-B2-TP1/blob/main/ETAPE1.mdhttps://github.com/Anescoo/Linux/blob/main/D%C3%A9finition.md)
+- [Création de la VM](https://github.com/Anescoo/Linux-B2-TP1/blob/main/ETAPE1.md)
 - [Création d'une connexion sécurisée entre la VM Debian et mon poste Windows avec serveur SSH](https://github.com/Anescoo/Linux-B2-TP1/blob/main/ETAPE2.md)
 
 ---
