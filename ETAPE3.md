@@ -79,7 +79,12 @@ quit;
 - On va ensuite éditer le fichier **apache2.conf** et ajouter les lignes suivantes à la fin du fichier : 
 
 ```
-sudo nano /etc/apache2/apache2.conf (commande pour ouvrir le fichier) 
+sudo nano /etc/apache2/apache2.conf 
+```
+
+*(commande pour ouvrir le fichier)*
+
+```
 <Directory /var/www/html>
  	AllowOverride All
 </Directory>
