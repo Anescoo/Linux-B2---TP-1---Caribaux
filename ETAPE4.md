@@ -48,6 +48,10 @@ chown -R www-data /var/www/html/glpi/plugins
 - Voici ce que cela donne au final, félicitation **Fusion Inventory** est installé et prêt à l'emploie :
 ![](Img/fusioninventory.PNG)
 
+>--- 
+- Aperçu de l'interface **Fusion Inventory** :
+![](Img/fusinvinterf.PNG)
+
 ---
 
 [IV - 1 | page suivante](https://github.com/Anescoo/Linux-B2-TP1/blob/main/ETAPE6.md) >
