@@ -86,7 +86,7 @@ sudo nano /etc/apache2/apache2.conf
 
 ```
 <Directory /var/www/html>
- 	AllowOverride All
+AllowOverride All
 </Directory>
 ```
 
