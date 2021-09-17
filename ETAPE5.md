@@ -7,7 +7,7 @@ Effectivement il y a un message d'alerte du cron de GLPI. Il est dû à une abse
 Pour résoudre ce problème, marquez ces commandes dans votre terminal **debian 11** :
 
 ```
-# crontab -u www-data -e
+crontab -u www-data -e
 ```
 
 *il faut sélectionner le choix numéro **1***
@@ -21,7 +21,7 @@ Pour résoudre ce problème, marquez ces commandes dans votre terminal **debian 
 - Une fois cela finis on relance le daemon du cron :
   
 ```
-# /etc/init.d/cron restart
+/etc/init.d/cron restart
 ```
 
 - Il faut ensuite aller dans **Configuration** → **Actions Automatiques**, puis aller à la deuxième page et chercher l'action "**tasksheduler**.
