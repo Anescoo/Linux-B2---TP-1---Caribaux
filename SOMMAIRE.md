@@ -21,6 +21,9 @@
 - 1. [Création d'une VM Windows Server](https://github.com/Anescoo/Linux-B2-TP1/blob/main/ETAPE6.md)
 - 2. [Installation et Configuration du Fusion Inventory agent et vérification sur GLPI](https://github.com/Anescoo/Linux-B2-TP1/blob/main/ETAPE7.md)
 
---- 
+---
+
+>#### V - Mettre en place une sauvegarde de GLPI (configurer une tâche Cron)
+- [Mise en place de la sauvegarde]()
 
 [I - 1  page suivante ](https://github.com/Anescoo/Linux-B2-TP1/blob/main/ETAPE1.md) >
