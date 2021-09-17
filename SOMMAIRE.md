@@ -24,6 +24,6 @@
 ---
 
 >#### V - Mettre en place une sauvegarde de GLPI (configurer une tâche Cron)
-- [Mise en place de la sauvegarde]()
+- 1. [Mise en place de la sauvegarde](https://github.com/Anescoo/Linux-B2-TP1/blob/main/ETAPE8.md)
 
 [I - 1  page suivante ](https://github.com/Anescoo/Linux-B2-TP1/blob/main/ETAPE1.md) >
