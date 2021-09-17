@@ -17,13 +17,14 @@
 ---
 
 >####  III - Ajouter au serveur un plugin de remontée de poste pour pouvoir réaliser l’inventaire du parc
-- [Résolution du problème de la crontab](https://github.com/Anescoo/Linux-B2-TP1/blob/main/ETAPE4.md)
+- [Résolution du problème de la crontab](https://github.com/Anescoo/Linux-B2-TP1/blob/main/ETAPE5.md)
 - [Installation de Fusion Inventory](https://github.com/Anescoo/Linux-B2-TP1/blob/main/ETAPE4.md)
 
 ---
 
 >####  IV - Mettre en place un poste client Windows 10 et remonter le poste client dans l’inventaire GLPI (Fusion Inventory)
-  
+- [Création d'une VM Windows Server]()
+- [Ajout du poste client dans l'inventaire GLPI]()
 
 --- 
 
