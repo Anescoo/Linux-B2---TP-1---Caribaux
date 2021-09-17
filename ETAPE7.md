@@ -11,7 +11,9 @@
 ![](Img/winpost4.PNG)
 
 - Ensuite aller sur navigateur internet : google, mozilla, internet explorer, etc... Ici ce sera **Microsoft Edge** et télécharger le logiciel **Fusion Inventory Agent**.
+
 ![](Img/win1.PNG)
+
 - On va d'abord configurer l'application.
 
 ![](Img/win2.PNG)
