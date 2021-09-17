@@ -12,3 +12,7 @@
   - https://computerz.solutions/installer-glpi-ubuntu-server/
 
 - Tuto Installation du plugin Fusion Inventory et le logiciel Fusion Inventory Agent - https://openclassrooms.com/fr/courses/1730516-gerez-votre-parc-informatique-avec-glpi/5994176-installez-le-plugin-et-l-agent-fusioninventory
+
+---
+
+[X - 2 | page suivante](https://github.com/Anescoo/Linux-B2-TP1/blob/main/CONCLUSION.md) >
