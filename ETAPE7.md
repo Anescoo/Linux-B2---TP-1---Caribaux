@@ -54,3 +54,6 @@ et cliquer sur **Force an Inventory**
 
 - On peut voir sur la deuxième ligne le nom de ma machine **DESKTOP-72874UA**, le fabricant est **Vmware** (logiciel pour machine virtuelle), et le système d'exploitation est **Windows**
 - La remontée du poste Windows 10 dans l'inventaire GLPI grâce à la manipulation sur la VM Windows avec **Fusion Inventory Agent** à effectivement été concluante.
+
+---
+[V - 1 | page suivante](https://github.com/Anescoo/Linux-B2-TP1/blob/main/ETAPE8.md) 
