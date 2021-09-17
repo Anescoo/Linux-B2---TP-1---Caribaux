@@ -108,4 +108,4 @@ quit;```
 
 ---
 
-[III - page suivante ](https://github.com/Anescoo/Linux-B2-TP1/blob/main/ETAPE5.md) >
+[III - 1 | page suivante ](https://github.com/Anescoo/Linux-B2-TP1/blob/main/ETAPE5.md) >

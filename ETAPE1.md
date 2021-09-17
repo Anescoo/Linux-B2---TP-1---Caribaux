@@ -71,4 +71,4 @@ Je peux désormais accéder au terminal passer en root, ou rentrer n'importe qu'
 
 --- 
 
-[II - page suivante ](https://github.com/Anescoo/Linux-B2-TP1/blob/main/ETAPE2.md) >
+[I - 2 | page suivante ](https://github.com/Anescoo/Linux-B2-TP1/blob/main/ETAPE2.md) >

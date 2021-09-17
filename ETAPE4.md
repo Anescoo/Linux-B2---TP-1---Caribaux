@@ -30,3 +30,6 @@ Fusion Inventory est un logiciel servant à l'inventaire et la maintenance d'un 
 - Voici ce que cela donne au final, félicitation **Fusion Inventory** est installé et prêt à l'emploie :
 ![](Img/fusioninventory.PNG)
 
+---
+
+[IV - 1 | page suivante](https://github.com/Anescoo/Linux-B2-TP1/blob/main/ETAPE6.md) >

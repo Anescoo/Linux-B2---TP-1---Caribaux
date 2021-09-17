@@ -25,6 +25,6 @@ La connexion est réussite il est donc maintenant possible d'utiliser sa machine
 
 ---
 
-[III - page suivante ](https://github.com/Anescoo/Linux-B2-TP1/blob/main/ETAPE3.md) >
+[II - 1 | page suivante ](https://github.com/Anescoo/Linux-B2-TP1/blob/main/ETAPE3.md) >
 
 
