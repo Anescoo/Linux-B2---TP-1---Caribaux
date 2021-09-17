@@ -3,7 +3,6 @@
 ###### Arnaud CLAVIER
 ---
 
-
 ## SOMMAIRE
 ---
 >#### I -  Mettre en place une machine virtuelle 
@@ -28,4 +27,4 @@
 
 --- 
 
-1. [ekeaf](https://github.com/Anescoo/Linux-B2-TP1/blob/main/ETAPE1.md) (page suivante)
+[I - page suivante ](https://github.com/Anescoo/Linux-B2-TP1/blob/main/ETAPE1.md) >
