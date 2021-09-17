@@ -14,12 +14,16 @@ Suite à notre connexion via SSH on va utiliser pouvoir utiliser notre invite de
 
 #### Installation de Apache, PHP, MariaDB configuration MySQL
 - Dans un premier temps on va mattre a jour notre système avec la commande suivante :
-   ```
-    apt-get update && apt-get upgrade 
-  ```
-- On va ensuite installer **Apache2** avec la commande suivante :```
-- # apt-get install apache2 php libapache2-mod-php
-  ```
+  
+```
+apt-get update && apt-get upgrade 
+```
+- On va ensuite installer **Apache2** avec la commande suivante :
+
+```
+apt-get install apache2 php libapache2-mod-php
+```
+
 - Après cela nous allons installer PHP avec la commande suivante : 
 
 ``` 
@@ -99,13 +103,12 @@ wget (https://github.com/glpi-project/glpi/releases/download/9.5.6/glpi-9.5.6.tg
 tar -zxvf glpi-9.5.6.tgz
 ```
 
----
 - Donnez à l’utilisateur www-data le contrôle total sur le répertoire GLPI et ses fichiers : 
 
 ```
 sudo chown -R www-data /var/www/html/glpi
 ```
----
+
 - Créez un fichier de configuration Apache nommé glpi.conf et insérez le texte suivant :
 
 ```
