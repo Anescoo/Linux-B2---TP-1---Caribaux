@@ -8,15 +8,33 @@ Fusion Inventory est un logiciel servant à l'inventaire et la maintenance d'un 
 ## Installez et configurez de Fusion Inventory
 
 - Tout d'abord il faut mettre à jour le système avec :
-```# apt-get update && apt-get upgrade```
+
+```
+# apt-get update && apt-get upgrade
+```
 
 - Ensuite on retourne dans le répertoire des sources et on télécharge le plugin **Fusion Inventory** avec un lien :
-```# cd /usr/src```
-```wget https://github.com/fusioninventory/fusioninventory-for-glpi/releases/download/glpi9.5%2B3.0/fusioninventory-9.5+3.0.tar.bz2``` (on va télécharger le plugin grâce la commande **wget** avec le lien )
-```tar xfvj fusioninventory-9.5+3.0.tar.bz2 -C /var/www/html/glpi/plugins``` (on va extraire les données du téléchargement pour les transférer dans le dossier plugins en suivant ce chemin)
+
+```
+# cd /usr/src
+```
+
+```
+wget https://github.com/fusioninventory/fusioninventory-for-glpi/releases/download/glpi9.5%2B3.0/fusioninventory-9.5+3.0.tar.bz2
+```
+(on va télécharger le plugin grâce la commande **wget** avec le lien)
+
+```
+tar xfvj fusioninventory-9.5+3.0.tar.bz2 -C /var/www/html/glpi/plugins
+``` 
+
+(on va extraire les données du téléchargement pour les transférer dans le dossier plugins en suivant ce chemin)
 
 - On va ensuite attribuer les droits d'accès au serveur web :
-```# chown -R www-data /var/www/html/glpi/plugins```
+
+```
+# chown -R www-data /var/www/html/glpi/plugins
+```
 
 - Ensuite il n'y a plus qu'a finaliser l'installation sur l'interface web, tout d'abord il faut se reconnecter à **glpi**:
 ![](Img/glpiconnect.PNG)

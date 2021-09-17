@@ -1,6 +1,6 @@
 ## TP N°1 - Linux / Clémence Caribaux
 ![](Img/powered-by-linux.png)
-##### Arnaud CLAVIER
+#### Arnaud CLAVIER
 ---
 
 ## SOMMAIRE
@@ -23,8 +23,8 @@
 ---
 
 >####  IV - Mettre en place un poste client Windows 10 et remonter le poste client dans l’inventaire GLPI (Fusion Inventory)
-- 1. [Création d'une VM Windows Server]()
-- 2. [Ajout du poste client dans l'inventaire GLPI]()
+- 1. [Création d'une VM Windows Server](https://github.com/Anescoo/Linux-B2-TP1/blob/main/ETAPE6.md)
+- 2. [Installation et Configuration du Fusion Inventory agent et vérification sur GLPI](https://github.com/Anescoo/Linux-B2-TP1/blob/main/ETAPE7.md)
 
 --- 
 
