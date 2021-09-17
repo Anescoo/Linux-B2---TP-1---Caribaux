@@ -23,6 +23,8 @@ Dernière étape il faut rentrer dans le terminal de son poste la commande suiva
 
 La connexion est réussite il est donc maintenant possible d'utiliser sa machine virutelle **Debian 11** depuis son invite de commande.
 
+---
 
+[III - page suivante ](https://github.com/Anescoo/Linux-B2-TP1/blob/main/ETAPE3.md) >
 
 

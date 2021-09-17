@@ -68,3 +68,7 @@ Debian démarre et je dois rentrer mes identifiants (login et mdp) pour accéder
 Je peux désormais accéder au terminal passer en root, ou rentrer n'importe qu'elle commande.
 
 ![](Img/installvm11.PNG)
+
+--- 
+
+[II - page suivante ](https://github.com/Anescoo/Linux-B2-TP1/blob/main/ETAPE2.md) >

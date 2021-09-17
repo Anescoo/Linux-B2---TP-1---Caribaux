@@ -105,3 +105,6 @@ quit;```
 
 **Voici l'interface de GLPI !**
 ![](Img/glpinterface.PNG)
+
+---
+
