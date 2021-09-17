@@ -1,5 +1,6 @@
 # Installation d'un serveur GLPI
 ---
+![](Img/glpilogo.png)
 
 **Quest-ce que GLPI ?**
 

@@ -1,5 +1,6 @@
-# Installation d'une VM 
+# Installation d'une VM Debian 11
 ---
+![](Img/debian-logo-large.png)
 
 **Quest-ce qu'une VM (machine virtuelle) ?**
 
