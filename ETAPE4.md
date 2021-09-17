@@ -1,6 +1,8 @@
 # Installation de Fusion Inventory
 ---
 
+![](Img/Fusinv-logo.png)
+
 **C'est quoi Fusion Inventory ?**
 
 Fusion Inventory est un logiciel servant à l'inventaire et la maintenance d'un parc informatique à l'aide d'autres logiciels de ce type tels que GLPI. Il permet d'effectuer l'inventaire matériel et logiciel.

@@ -1,6 +1,8 @@
 # Mise en place d'une connexion par SSH
 ---
 
+![](Img/ssh-logo-png-transparent.png)
+
 **Quest-ce qu'une clé SSH ?**
 
 Une clé **Secure Shell** (SSH) permet de créer une connexion sécurisée sur un réseau non-sécurisé.

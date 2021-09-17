@@ -28,4 +28,10 @@
   
 ---
 
+>#### X - Outils, Autres...
+- 1. [Annexe]()
+- 2. [Conclusion]()
+  
+---
+
 [I - 1  page suivante ](https://github.com/Anescoo/Linux-B2-TP1/blob/main/ETAPE1.md) >
